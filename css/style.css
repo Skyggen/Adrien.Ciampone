@@ -254,7 +254,8 @@ nav ul li a {
   justify-content: center;
   flex-direction: column;
   left: 30%;
-  text-shadow: 0.4em 0.4em 0.8em rgb(141, 141, 141)
+  
+  text-shadow: 1em 1em 1em rgba(42, 42, 42, 0.65)
 }
 
 .header-content h1 {
@@ -262,7 +263,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: rgb(0, 107, 56);
+  color: rgb(255, 255, 255);
 }
 
 .header-content p {
