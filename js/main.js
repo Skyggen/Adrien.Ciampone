@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Adrien Ciampone.", "Designer.", "Developpeur.", "Freelanceur.", "Photographe"],
+      strings: ["Designer.", "Developpeur.", "Freelanceur.", "Photographe"],
       typeSpeed: 100,
       loop: true,
     });
