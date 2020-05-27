@@ -247,12 +247,13 @@ nav ul li a {
 
 
 #header .header-content {
-  height: 100vh;
+  height: 130vh;
   text-align: left;
   width: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
+  left: 30%;
 }
 
 .header-content h1 {
