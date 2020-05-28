@@ -630,3 +630,6 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+.credits a:hover{
+  color: red;
+}
